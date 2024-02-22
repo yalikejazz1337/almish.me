@@ -1,2 +1,2 @@
-# almish.me
-My personal portfolio
+# almish.dev
+My personal portfolio.
